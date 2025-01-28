@@ -1,0 +1,5 @@
+R packages
+library(tidyverse)   # For data manipulation and plotting
+library(ggplot2)     # For advanced plotting
+library(dplyr)       # For data manipulation
+library(readr)       # For reading TSV files
